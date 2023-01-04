@@ -1,0 +1,8 @@
+com\fikri\peminjaman\service\Entity\Peminjaman.class
+com\fikri\peminjaman\service\Vo\Anggota.class
+com\fikri\peminjaman\service\Controller\PeminjamanController.class
+com\fikri\peminjaman\service\Service\PeminjamanService.class
+com\fikri\peminjaman\service\Vo\Buku.class
+com\fikri\peminjaman\service\PeminjamanServiceApplication.class
+com\fikri\peminjaman\service\Repository\PeminjamanRepository.class
+com\fikri\peminjaman\service\Vo\ResponseTemplateVo.class
